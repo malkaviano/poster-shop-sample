@@ -1,0 +1,36 @@
+{
+  "name": "poster-shop-sample",
+  "version": "1.0.0",
+  "description": "Poster Shop Sample APP based on Udemy course.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malkaviano/poster-shop-sample.git"
+  },
+  "keywords": [
+    "POSTER",
+    "SHOP",
+    "SAMPLE",
+    "NODE",
+    "EXPRESS",
+    "VUEJS"
+  ],
+  "author": "MALKAVIANO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malkaviano/poster-shop-sample/issues"
+  },
+  "homepage": "https://github.com/malkaviano/poster-shop-sample#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "superagent": "^3.8.1"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
